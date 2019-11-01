@@ -1,0 +1,2 @@
+# app-src-main-java-org-narcotek-cputemp-common-helper-IntentStrings.java
+Konstruktor ()     .initialColor ( kolor . ZIELONY )     .colorMode ( ColorMode . ARGB ) // RGB, ARGB, HVS, CMYK, CMYK255, HSL      .indicatorMode ( IndicatorMode . HEX ) // HEX lub DECIMAL; Zauważ, że (HSV || HSL || CMYK) i&amp; IndicatorMode.HEX to zły pomysł      .onColorSelected (kolor - >  / * zrób swoje rzeczy * / )     .Stwórz()     .show (getSupportFragmentManager (), „ ChromaDialog ” ()
